@@ -1,5 +1,5 @@
 {
-    "name": "fbf/laravel-solarium",
+    "name": "martindale-hubbell/laravel-solarium",
     "description": "Laravel Framework package for using Solarium",
     "license" : "MIT",
     "authors": [
@@ -18,7 +18,7 @@
             "src/controllers"
         ],
         "psr-0": {
-            "Fbf\\LaravelSolarium\\": "src/"
+            "MartindaleHubbell\\LaravelSolarium\\": "src/"
         }
     },
     "minimum-stability": "dev"
